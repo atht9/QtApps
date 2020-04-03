@@ -14,7 +14,7 @@ An application for predicting the results for the return fixtures of the 2019-20
 
 # Integralles Numeriques
 
-Nuemrical integrals for any function that the user inputs
+Numerical integrals for any function that the user inputs
 
 # Serie Statistique
 
